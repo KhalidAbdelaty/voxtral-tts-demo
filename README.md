@@ -1,6 +1,6 @@
 # Voxtral TTS Demo
 
-A Streamlit app for testing Mistral's [Voxtral TTS](https://mistral.ai/news/voxtral-tts) API. Built as a companion to the [DataCamp tutorial on Voxtral TTS](https://www.datacamp.com/tutorial/voxtral-tts).
+A Streamlit app for testing Mistral's [Voxtral TTS](https://mistral.ai/news/voxtral-tts) API. Built as a companion to the [DataCamp article on Voxtral TTS](https://www.datacamp.com/blog/voxtral-tts).
 
 ## Features
 
